@@ -1,0 +1,9 @@
+C:\Users\Sasha\Desktop\C_Sharp_dev\FarmBot\FarmBot\bin\Debug\FarmBot.exe
+C:\Users\Sasha\Desktop\C_Sharp_dev\FarmBot\FarmBot\bin\Debug\FarmBot.pdb
+C:\Users\Sasha\Desktop\C_Sharp_dev\FarmBot\FarmBot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\C_Sharp_dev\FarmBot\FarmBot\obj\x86\Debug\FarmBot.exe
+C:\Users\Sasha\Desktop\C_Sharp_dev\FarmBot\FarmBot\obj\x86\Debug\FarmBot.pdb
+C:\Users\Sasha\Desktop\C_Sharp_dev\FarmBot\FarmBot\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Sasha\Desktop\C_Sharp_dev\FarmBot\FarmBot\bin\Debug\OpenHardwareMonitorLib.pdb
+C:\Users\Sasha\Desktop\C_Sharp_dev\FarmBot\FarmBot\bin\Debug\agsXMPP.dll
+C:\Users\Sasha\Desktop\C_Sharp_dev\FarmBot\FarmBot\bin\Debug\crypto.dll
